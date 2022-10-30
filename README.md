@@ -3,11 +3,11 @@
 Business Understanding
 Sebuah perusahaan multinasional memiliki beberapa tingkatan posisi/jabatan di organisasinya. Perusahaan harus menemukan orang yang tepat untuk menerima promosi jabatan (level manajer dan di bawahnya).
 
-Rumusan Masalah
+Rumusan Masalah /n
 Bagaimana mengidentifikasi kandidat yang memenuhi kriteria pada tahap tertentu agar mempercepat alur promosi jabatan ?
 
-Solusi
+Solusi /n
 Membuat suatu model Machine Learning untuk memprediksi employee yang akan promosi berdasarkan data-data berupa education, recruitment channel, awards, training score, dll.
 
-About Dataset
+About Dataset /n
 Dataset yang dimiliki berisi 13 kolom dan 54808 baris data.Tipe data yang ada di dataset ini adalah integer, float dan object.
